@@ -359,6 +359,10 @@ button
 {
     width: 80%;
 }
+.headshot-1 img{
+    width: 250px;
+    height: 250px;
+}
 .names{
     font-size: 20px;
     font-weight: 600;
